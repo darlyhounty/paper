@@ -11,3 +11,6 @@
 ## 4.3abc=0,4.3abc=0.25
 </br> abc=0->a=b=c=0
 </br>abc=0.25->a=b=c=0.25
+## Method_ComplexExpand:
+</br>(3.3) Complex Expand
+
