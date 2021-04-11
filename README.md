@@ -10,4 +10,6 @@
 </br>Формула расчета Константа погрешность
 ## Method_ComplexExpand:
 </br> (3.3) Complex Expand
+## graphics_XX
+</br>Stable interval
 
