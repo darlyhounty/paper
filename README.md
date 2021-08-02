@@ -12,4 +12,6 @@
 </br> (3.3)Комплексное расширение _root locus
 ## graphics_XX
 </br>Stable interval
+##  近似解:
 
+##  误差图像:
